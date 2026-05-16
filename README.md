@@ -6,7 +6,7 @@ A stylish, animated **Login and Registration** popup UI built with **HTML**, **C
 
 ## 📸 Preview
 
-![Background Preview](background.jpg)
+![Background Preview](sample.png)
 
 > The login/register popup appears over a dark BMW background with a frosted glass card effect.
 
